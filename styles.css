@@ -1,0 +1,156 @@
+body {
+    background-color: black;
+}
+
+.Nome{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    line-height: 0.3;
+    font-family: 'Inter-Bold.ttf', sans-serif;
+}
+
+.Localidade {
+    font-family: 'Inter-SemiBold.ttf', sans-serif;
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    line-height: 0.1;
+}
+
+.Texto {
+    color:hsl(9, 1%, 70%);
+    text-align: center;
+    line-height: 2.0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.Foto img{
+    width: 70px; /* Largura da imagem */
+    height: 70px; /* Altura da imagem */
+    border-radius: 50%; /* Torna a imagem redonda */
+}
+
+.Dados {
+    color: black;  
+    background-color: hsl(0, 0%, 12%);
+    height: 570px;
+    width: 360px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.GitHub {
+    display: flex;
+    justify-content: center;
+}
+
+.Front {
+    display: flex;
+    justify-content: center;
+}
+
+.LinkedIn {
+    display: flex;
+    justify-content: center;
+}
+
+.Twitter {
+    display: flex;
+    justify-content: center;
+}
+
+.Instagram {
+    display: flex;
+    justify-content: center;
+}
+
+.botao1 {
+    margin-top: 0px;
+    cursor: pointer;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color:  hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding: 0; 
+    border: none;
+}
+
+.botao2 {
+    margin-top: 15px;
+    cursor: pointer;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color:  hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding: 0; 
+    border: none;
+}
+
+.botao3 {
+    margin-top: 15px;
+    cursor: pointer;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color:  hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding: 0; 
+    border: none;
+}
+
+.botao4 {
+    margin-top: 15px;
+    cursor: pointer;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color:  hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding: 0; 
+    border: none;
+}
+
+.botao5 {
+    margin-top: 15px;
+    cursor: pointer;
+    justify-content: center;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color:  hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding: 0; 
+    border: none;
+}
+
+.atribution{
+    color: white;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    position: fixed;
+    width: 50%;
+}
+
+
+
